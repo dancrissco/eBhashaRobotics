@@ -10,5 +10,9 @@ https://youtu.be/XdmjO8T_Eso?si=pDBT-Gr-24kd_NNr
 Lesson 3
 https://youtu.be/TsO55Tz2KYk?si=sAJXsQ70erq7xA1j
 
+Lesson IR Sensors with Arduino Alvik
+https://youtu.be/97UaK3eqn8k?si=q7Nz9WSGjLGCYwI9
+
+
 
 
