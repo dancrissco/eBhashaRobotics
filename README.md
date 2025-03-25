@@ -18,6 +18,9 @@ https://youtu.be/97UaK3eqn8k?si=q7Nz9WSGjLGCYwI9
 Factory Inspection with PictoBlox ML Module
 https://youtu.be/MknvNWhKYR0?si=-3Hcs2rVFo7GgHHy
 
+Line Follow with PID STEM Lab Mobile Differential Robot
+https://youtube.com/shorts/jQa9pze87EU?si=Jx8JRHJmWfYxemBb
+
 
 
 
